@@ -1,6 +1,6 @@
 ## Pending Bug Fixes
-- TBC Button activates Cipher. Mkae unclickable
+- TBC Button activates Cipher. Make unclickable
 - javaFX is giving erors on VSCODE
 
 ## Planned Features
-- Add an assymetric cipher
+- Add an asymmetrical cipher
